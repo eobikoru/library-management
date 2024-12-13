@@ -1,0 +1,32 @@
+[
+  {
+    "Title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "ISBN": "978-0-06-112008-4",
+    "Year": 1960,
+    "Status": "Available",
+    "Borrower": null,
+    "BorrowedDate": null,
+    "AddedDate": "2024-12-12 10:23:45"
+  },
+  {
+    "Title": "1984",
+    "Author": "George Orwell",
+    "ISBN": "978-0-452-28423-4",
+    "Year": 1949,
+    "Status": "Available",
+    "Borrower": null,
+    "BorrowedDate": null,
+    "AddedDate": "2024-12-11 08:00:00"
+  },
+  {
+    "Title": "Moby-Dick",
+    "Author": "Herman Melville",
+    "ISBN": "978-0-14-243724-7",
+    "Year": 1851,
+    "Status": "Available",
+    "Borrower": null,
+    "BorrowedDate": null,
+    "AddedDate": "2024-12-11 09:15:30"
+  }
+]
