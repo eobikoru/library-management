@@ -4,9 +4,8 @@ Setup Instructions
 
 Clone or Download the Repository to have access to the project files. Clone the repository using:
 
-git clone <repository-url>
 
-Alternatively, download the project files as a ZIP and extract them.
+ download the project files as a ZIP and extract them.
 
 Install Python 3.7 or higher is installed on your system. You can download it from python.org.
 
